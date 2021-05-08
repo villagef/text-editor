@@ -1,0 +1,22 @@
+{
+  "name": "text-editor",
+  "version": "1.0.0",
+  "description": "simple text editor",
+  "main": "index.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villagef/text-editor.git"
+  },
+  "author": "Filip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villagef/text-editor/issues"
+  },
+  "homepage": "https://github.com/villagef/text-editor#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

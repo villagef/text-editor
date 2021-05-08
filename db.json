@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "id": "_2tdv1tk1j",
+      "title": "blabla",
+      "content": "asdasd",
+      "date": "2021-05-08T18:54:04.723Z"
+    },
+    {
+      "id": "_pwv125sfb",
+      "title": "blabla",
+      "content": "",
+      "date": "2021-05-08T19:01:20.521Z"
+    },
+    {
+      "id": "_mvbt5s21g",
+      "title": "blabla",
+      "content": "",
+      "date": "2021-05-08T19:01:23.156Z"
+    },
+    {
+      "id": "_wy3yddk9f",
+      "content": "fsdfsdfsdf",
+      "date": "2021-05-08T19:10:09.021Z"
+    },
+    {
+      "id": "_4teq2r3lj",
+      "title": "nowy",
+      "content": "n<i>owy objekt testowy</i>",
+      "date": "2021-05-08T19:13:36.418Z"
+    }
+  ]
+}

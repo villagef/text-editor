@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://kit.fontawesome.com/8a50a2ee31.js" crossorigin="anonymous"></script>
+    <title>Text editor</title>
+  </head>
+  <body>
+    <form>
+      <button type="button" data-cmd="bold">
+        <i class="fas fa-bold" aria-hidden="true"></i>
+      </button>
+      <button type="button" data-cmd="italic">
+        <i class="fas fa-italic" aria-hidden="true"></i>
+      </button>
+      <button type="button" data-cmd="insertUnorderedList">
+        <i class="fas fa-list-ul" aria-hidden="true"></i>
+      </button>
+      <button type="button" data-cmd="save">
+        <i class="far fa-save" aria-hidden="true"></i>
+      </button>
+      <input type="text" name="title" id="title" placeholder="Document title">
+    </form>
+    <iframe id="output" name="textField"></iframe>
+    <script src="index.js"></script>
+    <!-- <script src="randomID.js"></script> -->
+  </body>
+</html>
